@@ -7,7 +7,7 @@ Dataset yang digunakan berasal dari penelitian sebelumnya yaitu :
 Hoax Detection on Indonesian Text using Long Short-Term Memory
 - 10.1109/ICOIACT55506.2022.9972086
 - https://github.com/zalizaldiy/fake-news-detection
-- Rizaldi Yusuf Suyanto Suyanto
+- Rizaldi Yusuf, Suyanto Suyanto
 ---------------------------------------
 Dataset tersebut mengambil sumber dari 3 sumber berita dengan kredibilitas tinggi menurut jurnal tersebut yaitu 
 (cnnindonesia, detik.co.id, dan turnbackhoax.id) dengan cara melakukan crawling/scrap data
